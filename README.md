@@ -1,9 +1,9 @@
 # robot-lab-project
 
 ## **Project by:** 
-_Fatimaalzahraa Mohamed ***(202101311)***_ 
-_Reem Salem ***(202200411)***_
-_Yara Hussein ***(202100130)***_
+- _Fatimaalzahraa Mohamed ***(202101311)***_ 
+- _Reem Salem ***(202200411)***_
+- _Yara Hussein ***(202100130)***_
 
 We created a simulation of Pink Panther walking across a maze-like course
 while avoiding obstacles and reaching the target input by the user,
