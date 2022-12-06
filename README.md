@@ -10,7 +10,7 @@ while avoiding obstacles and reaching the target input by the user,
 on Visual Studio Code using the Python programming language, for our
 Introduction to Computer Engineering course's lab final.
 
-### **Python version:** 
+### **Python version(s):** 
 3.6 - 3.8
 
 ### **Libraries used:** 
