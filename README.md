@@ -33,7 +33,7 @@ direction or angle in each obstacle
 ## **Output of code:**
 
 
-Figure description: As seen in the previous figure, the simulation is running
+Figure description: First, the user is required to enter the required points and decide whether to the changes in obstacle and target position, the Sesnor Readings of the robots positions are then printed. As seen in the previous figure, the simulation is running
 and Pink Panther is moving to the target, while avoiding collisions with the
 map walls and obstacles.
 
