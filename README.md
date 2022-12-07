@@ -23,8 +23,8 @@ Introduction to Computer Engineering course's lab final.
 - numpy
 
 ## **User inputs:**
-1. Starting coordinates *(The user must input BOTH the x & y coordinates of the starting point)
-2. Target coordinates *(The user must input BOTH the x & y coordinates of the target point)
+1. Starting coordinates *(The user must input BOTH the x & y coordinates of the starting point)*
+2. Target coordinates *(The user must input BOTH the x & y coordinates of the target point)*
 3. IF they would like to see changes in the any changes in the
 direction or angle to the target
 4. IF they would like to see changes in the any changes in the
@@ -33,9 +33,10 @@ direction or angle in each obstacle
 ## **Output of code:**
 
 
-Figure description: First, the user is required to enter the required points and decide whether to the changes in obstacle and target position, the Sesnor Readings of the robots positions are then printed. As seen in the previous figure, the simulation is running
-and Pink Panther is moving to the target, while avoiding collisions with the
-map walls and obstacles.
+Figure description: First, the user is required to enter the required points and decide whether to 
+the changes in obstacle and target position, the Sensor Readings of the robots positions are then printed. 
+As seen in the previous figure, the simulation is running and Panther is moving to the target, 
+while avoiding collisions with the map walls and obstacles.
 
 ## **How the code works:**
 The code is put together using the libraries mentioned previously
