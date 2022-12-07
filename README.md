@@ -39,10 +39,10 @@ map walls and obstacles.
 
 ## **How the code works:**
 The code is put together using the libraries mentioned previously
-to create a simulation of a moving "vehicle", which in our case is Pink Panther,
+to create a simulation of a moving "vehicle", which in our case is Panther,
 that is able to move from a starting point input by the user to the target point- also
-input by the user, whilst avoiding numerous objects.
-The Pink Panther is able to identify the obstacles using "RangeBearingSensor"
+input by the user, whilst avoiding numerous obstacles.
+The Panther is able to identify the obstacles and walls using "RangeBearingSensor"
 and bypassing them. 
 
 ## **How to improve the code:**
