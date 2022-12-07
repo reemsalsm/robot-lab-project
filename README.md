@@ -34,7 +34,8 @@ direction or angle in each obstacle
 
 
 Figure description: As seen in the previous figure, the simulation is running
-and Pink Panther is moving to the target, while avoiding the obstacles.
+and Pink Panther is moving to the target, while avoiding collisions with the
+map walls and obstacles.
 
 ## **How the code works:**
 The code is put together using the libraries mentioned previously
