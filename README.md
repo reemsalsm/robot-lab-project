@@ -22,6 +22,9 @@ Introduction to Computer Engineering course's lab final.
 - matplotlib.image
 - numpy
 
+### **Map size:**
+50mx50m
+
 ## **User inputs:**
 1. Starting coordinates *(The user **must** input **BOTH** the x & y coordinates of the starting point)*
 2. Target coordinates *(The user **must** input **BOTH** the x & y coordinates of the target point)*
