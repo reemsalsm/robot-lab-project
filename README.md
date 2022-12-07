@@ -7,7 +7,7 @@
 - _Reem Salem ***(202200411)***_
 - _Yara Hussein ***(202100130)***_
 
-We created a simulation of Pink Panther walking across a maze-like course
+We created a simulation of Panther walking across a maze-like course
 while avoiding obstacles and reaching the target input by the user,
 on Visual Studio Code using the Python programming language, for our
 Introduction to Computer Engineering course's lab final.
