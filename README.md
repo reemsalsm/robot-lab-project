@@ -46,9 +46,15 @@ input by the user, whilst avoiding numerous obstacles.
 The Panther is able to identify the obstacles and walls using "RangeBearingSensor"
 and bypassing them. 
 
-## **How to improve the code:**
+## **Areas for improvement:**
+
+- *Coding:*
 
 
+- *Team Cooperation:*
+The code was done in a short time, thus it would have been better
+if the group had started earlier. As well as, improving
+the communication between members.
 
 # flow chart 
 ![flow chart](/Media/robot.png)
