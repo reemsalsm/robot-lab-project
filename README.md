@@ -51,10 +51,10 @@ and bypassing them.
 
 ## **Areas for improvement:**
 
-- *Coding:*
+### *Coding:*
 
 
-- *Further improvement:*
+### *Further improvement:*
 The code was done in a short time, thus it would have been better
 if the group had started earlier. As well as, improving
 the communication between members.
