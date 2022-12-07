@@ -50,7 +50,8 @@ and bypassing them.
 
 
 
-
+# flow chart 
+![flow chart](/Media/robot.png)
 
 
 
