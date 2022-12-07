@@ -51,7 +51,7 @@ and bypassing them.
 - *Coding:*
 
 
-- *Team Cooperation:*
+- *Further improvement:*
 The code was done in a short time, thus it would have been better
 if the group had started earlier. As well as, improving
 the communication between members.
