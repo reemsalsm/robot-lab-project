@@ -15,7 +15,7 @@ Introduction to Computer Engineering course's lab final.
 ### **Python version(s):** 
 3.6 - 3.8
 
-### **Libraries used:** 
+### **Libraries imported:** 
 - roboticstoolbox
 - math
 - matplotlib.pyplot
