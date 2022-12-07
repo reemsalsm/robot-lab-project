@@ -49,7 +49,6 @@ and bypassing them.
 
 ## **Areas for improvement:**
 
-### *Coding:*
 
 # flow chart 
 ![flow chart](/Media/robot.png)
