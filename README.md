@@ -23,18 +23,16 @@ Introduction to Computer Engineering course's lab final.
 - numpy
 
 ### **Map size:**
-50mx50m
+The map simulated is stretched to a 50mx50m scale
 
 ## **User inputs:**
 1. Starting coordinates *(The user **must** input **BOTH** the x & y coordinates of the starting point)*
 2. Target coordinates *(The user **must** input **BOTH** the x & y coordinates of the target point)*
-3. IF they would like to see changes in the any changes in the
-direction or angle to the target
-4. IF they would like to see changes in the any changes in the
-direction or angle in each obstacle
+3. Number of obstacles *(The user **must** input the number of obstacles to be displayed in the map)*
 
 ## **Output of code:**
-
+1. Sensor readings, which display the distance between ....
+2. The map uploaded with an autonomous robot navigating it's way through the obstacles to reach a target point.
 
 Figure description: First, the user is required to enter the required points and decide whether to 
 the changes in obstacle and target position, the Sensor Readings of the robots positions are then printed. 
