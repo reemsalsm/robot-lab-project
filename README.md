@@ -31,7 +31,7 @@ The map simulated is stretched to a 50mx50m scale
 3. Number of obstacles *(The user **must** input the number of obstacles to be displayed in the map)*
 
 ## **Output of code:**
-1. Sensor readings, which display the distance between ....
+1. Sensor readings, which calculate and display the distance between the vehicle and the obstacles.
 2. The map uploaded with an autonomous robot navigating it's way through the obstacles to reach a target point.
 
 Figure description: First, the user is required to enter the required points and decide whether to 
