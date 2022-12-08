@@ -33,16 +33,16 @@ animation= anim, #Animates the motion of the robot
 veh.init(plot=True)
 veh._animation.update(veh.x)  
 
-target_marker_style={ #Creating the obstacles
-    'marker':'*', #Obstacle shape
-    'markersize': '10', #Obstacle size
-    'color': 'pink' #Obstacle colour
+target_marker_style={ #Creating the Target marker
+    'marker':'*', #Target shape
+    'markersize': '10', #Target size
+    'color': 'pink' #Target colour
 }
 
 plt.plot(target_coordinates_x, target_coordinates_y, **target_marker_style)
 plt.plot()
 
-goal_heading=atan2( #Calculating the distance to the target goal
+goal_heading=atan2( #Calculating the distance to the target goal from the vehicle
     target_coordinates[1]-veh.x[1     ], 
     target_coordinates[0]-veh.x[0]
     )
@@ -65,7 +65,7 @@ while(run):
                 target_coordinates[0]-veh.x[0]
             )
     steer = goal_heading- veh.x[2]
-    veh.step(2,steer) #Speed of the Vehicleh.
+    veh.step(2,steer) #Speed and angle of the Vehicle
     if((abs(target_coordinates[0]-veh.x[0]) >0.05) or (abs(target_coordinates[1]-vex[1]) > 0.05)): #If condition: if the vehicle is >0.05 away from the target, the robot 
          run=True
          for i in sensor.h(veh.x):
