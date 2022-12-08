@@ -34,7 +34,7 @@ The map simulated is stretched to a 50mx50m scale
 
 ![user inputs](Media/User_inputs.jpeg) 
 
-Figure description: The figure above represents the interface between the user and the program, where the user is allowed to input values in order to get the results accordingly to their desire. 
+Figure 1.1 description: The figure above represents the interface between the user and the program, where the user is allowed to input values in order to get the results accordingly to their desire. 
 
 ## **Output of code:**
 1. Sensor readings, which calculate and display the distance between the vehicle and the obstacles.
@@ -43,11 +43,11 @@ Figure description: The figure above represents the interface between the user a
 ### **Sensor Readings:**
 ![sensor reasdings](Media/Sensor_readings.jpeg)
 
-Figure description: The sensors measures the distance between the 'vehicle' and the obstecles and stores that in the variable "sensor". It then prints all the values that is read by the sensor, as seen in the figure above. These values help the robot navigate through the map and avoid the obstcles.  
+Figure 1.2 description: The sensors measures the distance between the 'vehicle' and the obstecles and stores that in the variable "sensor". It then prints all the values that is read by the sensor, as seen in the figure above. These values help the robot navigate through the map and avoid the obstcles.  
 
 ![map](Media/Map_and_Robot.jpeg)
 
-Figure description: First, the user is required to enter the required points and decide whether to 
+Figure 1.3 description: First, the user is required to enter the required points and decide whether to 
 the changes in obstacle and target position, the Sensor Readings of the robots positions are then printed. 
 As seen in the previous figure, the simulation is running and Panther is moving to the target, 
 while avoiding collisions with the map walls and obstacles.
