@@ -43,7 +43,7 @@ plt.plot(target_coordinates_x, target_coordinates_y, **target_marker_style)
 plt.plot()
 
 goal_heading=atan2( #Calculating the distance to the target goal from the vehicle
-    target_coordinates[1]-veh.x[1     ], 
+    target_coordinates[1]-veh.x[1], 
     target_coordinates[0]-veh.x[0]
     )
 
@@ -69,7 +69,7 @@ while(run):
     if((abs(target_coordinates[0]-veh.x[0]) >0.05) or (abs(target_coordinates[1]-vex[1]) > 0.05)): #If condition: if the vehicle is >0.05 away from the target, the robot 
          run=True
          for i in sensor.h(veh.x):
-             if (i[0] < 3): check diis from obs les #If the robot is within a distance of 3 from the obstacle, it runs the angle command
+             if (i[0] < 3): #If the robot is within a distance of 3 from the obstacle, it runs the angle command
                 if(abs(i[1]) < pi/4): #If the angle is within pi/4 from the obstacle, it runs the step command
                     veh.step(2,pi/2) #If the distance and angle are not within range, the robot moves in steps of pi/2
 
