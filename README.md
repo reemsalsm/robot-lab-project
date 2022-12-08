@@ -45,7 +45,7 @@ Figure description: The figure above represents the interface between the user a
 
 Figure description: The sensors measures the distance between the 'vehicle' and the obstecles and stores that in the variable "sensor". It then prints all the values that is read by the sensor, as seen in the figure above. These values help the robot navigate through the map and avoid the obstcles.  
 
-![map](Media/Map_and_robot.jpeg)
+![map](Media/Map_and_Robot.jpeg)
 
 Figure description: First, the user is required to enter the required points and decide whether to 
 the changes in obstacle and target position, the Sensor Readings of the robots positions are then printed. 
