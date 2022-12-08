@@ -25,7 +25,7 @@ Introduction to Computer Engineering course's lab final.
 ### **Map size:**
 The map simulated is stretched to a 50mx50m scale
 
-![map](Media/Map_and_robot.jpeg)
+
 
 ## **User inputs:**
 1. Starting coordinates *(The user **must** input **BOTH** the x & y coordinates of the starting point)*
@@ -40,7 +40,9 @@ The map simulated is stretched to a 50mx50m scale
 
 ### **Sensor Readings:**
 ![sensor reasdings](Media/Sensor_readings.jpeg)
+Figure description: The sensors measures the distance between the 'vehicle' and the obstecles and stores that in the variable "sensor". It then prints all the values that is read by the sensor, as seen in the figure above. These values help the robot navigate through the map and avoid the obstcles.  
 
+![map](Media/Map_and_robot.jpeg)
 
 Figure description: First, the user is required to enter the required points and decide whether to 
 the changes in obstacle and target position, the Sensor Readings of the robots positions are then printed. 
