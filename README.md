@@ -34,12 +34,15 @@ The map simulated is stretched to a 50mx50m scale
 
 ![user inputs](Media/User_input.jpeg) 
 
+Figure description: The figure above represents the interface between the user and the program, where the user is allowed to input values in order to get the results accordingly to their desire. 
+
 ## **Output of code:**
 1. Sensor readings, which calculate and display the distance between the vehicle and the obstacles.
 2. The map uploaded with an autonomous robot navigating it's way through the obstacles to reach a target point
 
 ### **Sensor Readings:**
 ![sensor reasdings](Media/Sensor_readings.jpeg)
+
 Figure description: The sensors measures the distance between the 'vehicle' and the obstecles and stores that in the variable "sensor". It then prints all the values that is read by the sensor, as seen in the figure above. These values help the robot navigate through the map and avoid the obstcles.  
 
 ![map](Media/Map_and_robot.jpeg)
