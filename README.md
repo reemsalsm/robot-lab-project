@@ -25,14 +25,22 @@ Introduction to Computer Engineering course's lab final.
 ### **Map size:**
 The map simulated is stretched to a 50mx50m scale
 
+![map](Media/Map_and_robot.jpeg)
+
 ## **User inputs:**
 1. Starting coordinates *(The user **must** input **BOTH** the x & y coordinates of the starting point)*
 2. Target coordinates *(The user **must** input **BOTH** the x & y coordinates of the target point)*
 3. Number of obstacles *(The user **must** input the number of obstacles to be displayed in the map)*
 
+![user inputs](Media/User_input.jpeg) 
+
 ## **Output of code:**
 1. Sensor readings, which calculate and display the distance between the vehicle and the obstacles.
-2. The map uploaded with an autonomous robot navigating it's way through the obstacles to reach a target point.
+2. The map uploaded with an autonomous robot navigating it's way through the obstacles to reach a target point
+
+### **Sensor Readings:**
+![sensor reasdings](Media/Sensor_readings.jpeg)
+
 
 Figure description: First, the user is required to enter the required points and decide whether to 
 the changes in obstacle and target position, the Sensor Readings of the robots positions are then printed. 
@@ -50,7 +58,7 @@ and bypassing them.
 ## **Areas for improvement:**
 The code written to run this task has been thought through to have a simplistic approach for the user to avoid any complications or confusion in errors. It could've been improved by programming the robot to detect the map walls and avoiding collisions with them as it does obstacles. Unfortunately, the code design was sudden to meet this limitation though may be solved using a different approach of creating an array of free points and placing manual obstacles and finally placing it into a loop to create a path the robot can move in freely to reach the target. Although this method may work, it is set to meet limitations and run to a certain point.
 
-# Flowchart: 
+## **Flowchart:**
 ![flow chart](/Media/Flowchart.png)
 
 
