@@ -42,7 +42,8 @@ target_marker_style={ #Creating the Target marker
 plt.plot(target_coordinates_x, target_coordinates_y, **target_marker_style)
 plt.plot()
 
-goal_heading=atan2( #Calculating the distance to the target goal from the vehicle
+#Calculating the distance to the target goal from the vehicle
+goal_heading=atan2(
     target_coordinates[1]-veh.x[1], 
     target_coordinates[0]-veh.x[0]
     )
