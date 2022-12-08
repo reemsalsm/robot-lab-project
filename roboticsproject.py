@@ -20,7 +20,7 @@ obs_number=int(input('Enter the number of obstacles:'))
 #Coordinates as put by the user:
 start_coordinates=[start_coordinates_x, start_coordinates_y] #Creating a list of the starting coordinates on map, input by the user
 target_coordinates=[target_coordinates_x, target_coordinates_y] #Creating a list of the target coordinates on map, input by the user
-anim = VehicleIcon('panther.png', scale =5) #Creating a variable for the robot that's used on the map and animating it
+anim = VehicleIcon('panther.png', scale =7) #Creating a variable for the robot that's used on the map and animating it
 
 
 veh = Bicycle(
