@@ -51,11 +51,11 @@ goal_heading=atan2( #Calculating the distance to the target goal
 map=LandmarkMap(obs_number,50) #Creates a variable of the map, using the obstacle input and a dimension of 50
 map.plot()
 image = mpimg.imread("map.png")
-plt.imshow(image, extent = [-50,50,-50,50]) #generates the map and stretches the grid across the x and y axis
+plt.imshow(image, extent = [-50,50,-50,50]) #Generates the map and stretches the grid across the x and y axis
 
-sensor=RangeBearingSensor(robot=veh,map=map,animate=True) #reads the angle and the distance between the vehicle and the obstacle
+sensor=RangeBearingSensor(robot=veh,map=map,animate=True) #Reads and measures the angle and the distance between the vehicle and the obstacle
 
-print('Sensor Readings: \n ', sensor.h(veh.x)) #printing sensor readings and calculates it
+print('Sensor Readings: \n ', sensor.h(veh.x)) #Prints the sensor readings and calculates it
 
 
 run=True
