@@ -80,4 +80,4 @@ while(run):
 
 
 
-plt.pause(1000) #nunber of seconds the map will be displayed
+plt.pause(1000) #Nunber of seconds the map will be displayed
