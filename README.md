@@ -50,7 +50,7 @@ and bypassing them.
 ## **Areas for improvement:**
 The code written to run this task has been thought through to have a simplistic approach for the user to avoid any complications or confusion in errors. It could've been improved by programming the robot to detect the map walls and avoiding collisions with them as it does obstacles. Unfortunately, the code design was sudden to meet this limitation though may be solved using a different approach of creating an array of free points and placing manual obstacles and finally placing it into a loop to create a path the robot can move in freely to reach the target. Although this method may work, it is set to meet limitations and run to a certain point.
 
-# Flow chart 
+# Flow chart: 
 ![flow chart](/Media/Flowchart.png)
 
 
