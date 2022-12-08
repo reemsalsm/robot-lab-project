@@ -32,7 +32,7 @@ The map simulated is stretched to a 50mx50m scale
 2. Target coordinates *(The user **must** input **BOTH** the x & y coordinates of the target point)*
 3. Number of obstacles *(The user **must** input the number of obstacles to be displayed in the map)*
 
-![user inputs](Media/User_input.jpeg) 
+![user inputs](Media/User_inputs.jpeg) 
 
 Figure description: The figure above represents the interface between the user and the program, where the user is allowed to input values in order to get the results accordingly to their desire. 
 
